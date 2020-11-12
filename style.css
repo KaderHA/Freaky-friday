@@ -21,7 +21,6 @@ nav {
 	height: 64px;
 	background-color: #D2302C;
 	align-items: center;
-	justify-content: space-between;
 	position: sticky;
 }
 
@@ -68,7 +67,8 @@ img {
 	border: 5px;
 	border-style: dashed;
 	border-color: #D2302C;
-	margin: 20px auto;
+	margin: 20px 0;
+	float: right;
 	display: block;
 	width: 500px;
 }
